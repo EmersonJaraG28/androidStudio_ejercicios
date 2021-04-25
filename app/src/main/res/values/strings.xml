@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Ejercicios</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="titulo_cuestionario">Encuesta sobre el COVID</string>
+    <string name="ingrese_nombre_completo">Nombre completo</string>
+    <string name="edad">Edad</string>
+    <string name="sexo">Sexo</string>
+    <string name="nivel_oxigenacion">Nivel de Oxigenación</string>
+    <string name="fiebre">Fiebre</string>
+    <string name="dolor_cuerpo">Dolor de cuerpo</string>
+    <string name="btn_validar">Validar</string>
+</resources>
